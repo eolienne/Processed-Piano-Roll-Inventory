@@ -10,49 +10,49 @@ Processed collections in ARS of piano rolls
 ##Dataset overview
 
 ###Rolls per collection
-ARS piano roll collection: 355 items
-Condon collection: 7368 items
-Guild and La Croix collection: 463 items
+ARS piano roll collection: 355 items<br />
+Condon collection: 7368 items<br />
+Guild and La Croix collection: 463 items<br />
 
 ###Rolls per publisher labels (alphabetically)
-1                       Aeolian    6
-2         Aeolian (non-Duo-Art)    3
-3                        Ampico 2806
-4                      Animatic   68
-5                        Apollo   27
-6                       Artempo    3
-7                Artrio-Angelus  115
-8                     Autograph    5
-9                     BluesTone    1
-10                     Broadway    2
-11                Cable Company    1
-12                Carilon Rolls   25
-13                     Cecilian    1
-14                      Duo-Art 2691
-15            Eighty-eight note    2
-16                   Gulbransen    1
-17                     Imperial    6
-18      International Word Roll    1
-19                  Mastertouch   22
-20                      Melodee   10
-21 Metrostyle ThemodisPianolist    7
-22                Miscellaneous   13
-23                   Perfection    6
-24                       Philag    4
-25                    Picturoll    1
-26     Picturoll (Filmusic Co.)    1
-27             Pop (Musicrafts)    2
-28                   Popularoll    3
-29                          QRS  402
-30                QRS - ArtEcho  306
-31                   Rhythmodik    6
-32                    Rythmodik    1
-33              SingA Word Roll    1
-34                    Solostyle    1
-35                    Supertone   10
-36                   Triphonola  234
-37                   Uni-Record    4
-38      United States Music Co.    1
-39                    Universal   18
-40                   Vocalstyle   11
-41                 Welte Mignon 1358
+1                       Aeolian    6<br />
+2         Aeolian (non-Duo-Art)    3<br />
+3                        Ampico 2806<br />
+4                      Animatic   68<br />
+5                        Apollo   27<br />
+6                       Artempo    3<br />
+7                Artrio-Angelus  115<br />
+8                     Autograph    5<br />
+9                     BluesTone    1<br />
+10                     Broadway    2<br />
+11                Cable Company    1<br />
+12                Carilon Rolls   25<br />
+13                     Cecilian    1<br />
+14                      Duo-Art 2691<br />
+15            Eighty-eight note    2<br />
+16                   Gulbransen    1<br />
+17                     Imperial    6<br />
+18      International Word Roll    1<br />
+19                  Mastertouch   22<br />
+20                      Melodee   10<br />
+21 Metrostyle ThemodisPianolist    7<br />
+22                Miscellaneous   13<br />
+23                   Perfection    6<br />
+24                       Philag    4<br />
+25                    Picturoll    1<br />
+26     Picturoll (Filmusic Co.)    1<br />
+27             Pop (Musicrafts)    2<br />
+28                   Popularoll    3<br />
+29                          QRS  402<br />
+30                QRS - ArtEcho  306<br />
+31                   Rhythmodik    6<br />
+32                    Rythmodik    1<br />
+33              SingA Word Roll    1<br />
+34                    Solostyle    1<br />
+35                    Supertone   10<br />
+36                   Triphonola  234<br />
+37                   Uni-Record    4<br />
+38      United States Music Co.    1<br />
+39                    Universal   18<br />
+40                   Vocalstyle   11<br />
+41                 Welte Mignon 1358<br />
