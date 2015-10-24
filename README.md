@@ -8,6 +8,7 @@ Processed collections in ARS of piano rolls
 <a href="https://github.com/eolienne/Processed-Piano-Roll-Inventory/blob/master/Palladio%20Graph.svg">Palladio Network Chart (svg file)</a>
 
 ##Dataset overview
+<a href="https://github.com/eolienne/Processed-Piano-Roll-Inventory/blob/master/Raw%20data%20Processed%20Roll%20Collections%20with%20Labels.csv">Complete list</a> of processed piano roll collections with publisher labels. Created from Master Inventory excel document hosted by ARS. 
 
 ###Rolls per collection
 ARS piano roll collection: 355 items<br />
