@@ -14,6 +14,9 @@ ARS piano roll collection: 355 items<br />
 Condon collection: 7368 items<br />
 Guild and La Croix collection: 463 items<br />
 
+###Composition of collections by label
+<a href="https://github.com/eolienne/Processed-Piano-Roll-Inventory/blob/master/labelsPerCollection.csv">CSV file</a> generated from inventory.R that stores frequency of publisher labels per collection. 
+
 ###Rolls per publisher labels (alphabetically)
 1                       Aeolian    6<br />
 2         Aeolian (non-Duo-Art)    3<br />
