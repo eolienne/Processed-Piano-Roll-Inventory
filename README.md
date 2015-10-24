@@ -7,12 +7,14 @@ Processed collections in ARS of piano rolls
 
 <a href="https://github.com/eolienne/Processed-Piano-Roll-Inventory/blob/master/Palladio%20Graph.svg">Palladio Network Chart (svg file)</a>
 
- 				<b>Collection freq</b>
-1 ARS piano roll collection  355
-2                    Condon 7368
-3        Guild and La Croix  463
+##Dataset overview
 
-                          <b>Label freq</b>
+###Rolls per collection
+ARS piano roll collection: 355 items
+Condon collection: 7368 items
+Guild and La Croix collection: 463 items
+
+###Rolls per publisher labels (alphabetically)
 1                       Aeolian    6
 2         Aeolian (non-Duo-Art)    3
 3                        Ampico 2806
